@@ -1,0 +1,10 @@
+# États locaux et sauvegardes
+.wrangler/
+*.bak-*
+*.tmp
+
+# Médias et vignettes (1,9 Go) : conservés sur disque, pas dans Git.
+# Ils proviennent de « sauvegarde SSH/ » et « www.nsi.xyz-static/ » (lecture seule).
+# À réintégrer après l'optimisation WebP (~0,6 Go).
+wp-content/uploads/
+local/cache-vignettes/

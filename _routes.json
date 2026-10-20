@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/wp-content/*",
+    "/wp-includes/*",
+    "/IMG/*",
+    "/local/*",
+    "/feed/*",
+    "/comments/*",
+    "/sitemap.xml",
+    "/sitemap_index.xml",
+    "/robots.txt",
+    "/404.html"
+  ]
+}
