@@ -1,7 +1,8 @@
 # nsi.xyz — archive statique de la v2
 
 Export statique du WordPress `nsi.xyz` (v2, 2021-2026), déployé sur **Cloudflare Pages**
-(projet `nsi-xyz`). Le site est figé : il conserve les URL d'origine.
+(projet `nsi-xyz`), en production sur **https://nsi.xyz** depuis le 20/10/2026.
+Le site est figé : il conserve les URL d'origine.
 
 - `/` : page d'attente (`noindex`) du futur portail ;
 - `/v2/` : accueil de l'archive ;
