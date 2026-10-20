@@ -147,3 +147,6 @@
 /wp-admin/* / 301
 /wp-json/* / 301
 /ecrire/* / 301
+
+/blog/ / 301
+/politique-de-confidentialite-2/ /politique-de-confidentialite/ 301
