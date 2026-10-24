@@ -1,12 +1,13 @@
 # nsi.xyz — archive statique de la v2
 
 Export statique du WordPress `nsi.xyz` (v2, 2021-2026), déployé sur **Cloudflare Pages**
-(projet `nsi-xyz`), en production sur **https://nsi.xyz** depuis le 20/10/2026.
+(projet `nsi-xyz`), servi sous **https://nsi.xyz/v2/** depuis le 20/10/2026.
 Le site est figé : il conserve les URL d'origine.
 
-Dépôt public : **https://github.com/nsi-xyz/nsi.xyz**
+Dépôt public : **https://github.com/nsi-xyz/old.nsi.xyz**  
+Dossier local : `migration/archive-v2/`.
 
-- `/` : portail nsi.xyz (fichiers du dépôt `nsi-xyz/portail`) ;
+- `/` : portail nsi.xyz (fichiers du dépôt `nsi-xyz/nsi.xyz`) ;
 - `/v2/` : accueil de l'archive ;
 - `/v2/plan/` : plan du site (l’ancien `/plan/` redirige) ;
 - articles : `/projets/`, `/tutoriels/`, `/art/`, `/numapps/`, `/ds/`, `/decouvrir/`.
@@ -22,7 +23,7 @@ donc les pages et le code de l’archive, mais pas ces médias lourds.
 ## Déploiement
 
 La production combine ce dossier avec le portail. Utiliser le script du dépôt
-`nsi-xyz/portail` :
+`nsi-xyz/nsi.xyz` (dossier local `portail/`) :
 
 ```bash
 portail/outils-dev/deployer.sh /chemin/vers/archive-v2 production
