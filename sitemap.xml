@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><html><body><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://nsi.xyz/v2/</loc><lastmod>2026-10-20</lastmod><priority>1.0</priority></url>
 <url><loc>https://nsi.xyz/art/</loc><lastmod>2026-10-20</lastmod><priority>0.5</priority></url>
 <url><loc>https://nsi.xyz/art/art-generatif-la-citrouille-et-la-tortue/</loc><lastmod>2026-10-20</lastmod><priority>0.8</priority></url>
@@ -486,4 +486,3 @@
 <url><loc>https://nsi.xyz/tutoriels/zipper-dezipper-un-fichier-via-7-zip/</loc><lastmod>2026-10-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://nsi.xyz/v2/plan/</loc><lastmod>2026-10-20</lastmod><priority>0.6</priority></url>
 </urlset>
-</body></html>
