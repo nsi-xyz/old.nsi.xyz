@@ -7,6 +7,9 @@ Le site est figé : il conserve les URL d'origine.
 Dépôt public : **https://github.com/nsi-xyz/old.nsi.xyz**  
 Dossier local : `migration/archive-v2/`.
 
+> `old.nsi.xyz` est uniquement le **nom du dépôt GitHub**. Aucun domaine
+> `old.nsi.xyz` n’est créé : l’archive reste servie sous `https://nsi.xyz/v2/`.
+
 - `/` : portail nsi.xyz (fichiers du dépôt `nsi-xyz/nsi.xyz`) ;
 - `/v2/` : accueil de l'archive ;
 - `/v2/plan/` : plan du site (l’ancien `/plan/` redirige) ;
